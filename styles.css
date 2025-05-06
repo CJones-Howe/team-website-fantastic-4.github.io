@@ -174,7 +174,19 @@ body {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+.spacer {
+	height: 11.5vh;
+}
+
 #tagline {
 	font-size: 1.1rem;
 	margin: 2%;
+}
+
+footer {
+	font-size: .75rem;
+	text-align: center;
+	background-color: #1a1a1a;
+	color: #cccccc;
+	padding: 5px 0;
 }
